@@ -48,19 +48,23 @@ Execute the programs and publish them.
 
 COFFEESHOP
 
-![Alt text](<Screenshot from 2023-12-13 18-18-42.png>)
+![Screenshot 2025-04-28 231149](https://github.com/user-attachments/assets/1f006c13-21eb-4c4b-8e25-d1cb68afdb6a)
+
 
 ANNAPARK
 
-![Alt text](<Screenshot from 2023-12-13 18-19-08.png>)
+![Screenshot 2025-04-28 231136](https://github.com/user-attachments/assets/2e43df98-8332-45b8-a36b-a592dfad2dae)
+
 
 METRO
 
-![Alt text](<Screenshot from 2023-12-13 18-19-30.png>)
+![Screenshot 2025-04-28 231124](https://github.com/user-attachments/assets/a0f7ddc7-036c-45d4-932f-e0d3df089859)
+
 
 HAIRSHOP
 
-![Alt text](<Screenshot from 2023-12-13 18-20-03.png>)
+![Screenshot 2025-04-28 231100](https://github.com/user-attachments/assets/8277521b-acce-494e-a5fd-9adcabcf5cff)
+
 
 
 
