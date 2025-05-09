@@ -1,5 +1,6 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 05/05/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM
 To develop a website to display details about the places around my house.
